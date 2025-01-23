@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aladham</h1>
+<h1 align="center">Hi 👋, I'm Aladham Ibrahim</h1>
 <h3 align="center">A passionate software engineer with a strong focus on frontend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aladhamdawwa&label=Profile%20views&color=98a300&style=flat" alt="aladhamdawwa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aladhamdawwa&label=Profile%20views&color=98a300&style=flat" alt="aladhamdawwa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
